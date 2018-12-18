@@ -1,2 +1,4 @@
 # Python_Finance
-use python to do with finance
+Using python to do with finance
+
+The quandl_account includes my quandl account. 
